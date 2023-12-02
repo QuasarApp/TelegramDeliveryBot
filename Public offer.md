@@ -3,56 +3,56 @@
 Company "QuasarApp group"
 
 Legal address: Montenegro Bar, Novi Bulevar BR. 1B.
-TIN: 03602524
+Tax ID: 03602524
 
 Contact information:
 Phone: +382287388
 Email: quasarappdevelop@gmail.com
 
-Effective from 30.11.2023
+Effective from 3.12.2023
 
-## 1. Subject of the offer
+## 1. Subject of the Offer
 
-The company "QuasarApp group" offers subscriptions for using a Telegram bot that provides delivery and order functionality.
+Company "QuasarApp group" offers subscriptions for using a Telegram bot providing delivery and ordering functionality.
 
-## 2. Subscription terms
+## 2. Subscription Conditions
 
-- **Free trial period**: The user has the right to a free trial period of 1 month. Payment is made after the trial period expires. The trial period is available only for new users, starting from the moment of the bot's first activation.
+- **Free Trial Period**: The user is entitled to a free trial period of 2 weeks. Payment is due after the trial period expires. The trial period is available only for new users, starting from the moment of the first bot activation.
 
-- **Basic subscription**: The annual cost of the basic subscription is 600 euros without VAT for every 100 active unique users per day. It includes basic support for functionality, bug fixes, and basic consultations.
+- **Basic Subscription**: The cost of the annual basic subscription is 1200 euros per year without VAT. It includes basic functionality support, bug fixes, and basic consultations.
 
-- **Extended subscription**: The annual cost of the extended subscription is 1200 euros without VAT for every 100 active unique users per day. It includes bot support, bug fixes, bot updates (adding new features), and extended support (help with installation).
+- **Extended Subscription**: The cost of the annual extended subscription is 2400 euros per year without VAT. It includes bot support, bug fixes, bot updates (adding new features), and extended support (assistance with installation).
 
-## 3. Subscription renewal terms
+## 3. Subscription Renewal Conditions
 
-- The subscription can be renewed an unlimited number of times upon the user's request.
-- Renewal periods are determined individually upon the user's request.
+- The subscription can be renewed an unlimited number of times upon user request.
+- Renewal periods are determined individually upon user request.
 
-## 4. General terms
+## 4. General Conditions
 
-- The offer is valid from the moment of publication until withdrawal.
-- The user agrees to the terms of the offer by making the payment and starting to use the service.
+- The offer is valid from the moment of publication until revoked.
+- By making the payment and starting to use the service, the user agrees to the terms of the offer.
 
-## 5. Conflict resolution
+## 5. Conflict Resolution
 
-In case of disputes, the parties will seek to resolve them through negotiations. If the dispute is not resolved, it will be referred to the jurisdiction of the company's registration location.
+In case of disputes, the parties will seek resolution through negotiations. If the conflict is not resolved, it will be referred to the jurisdiction of the company's place of registration.
 
-## Privacy of information
+## Confidentiality of Information
 
-We commit to maintaining the privacy of user data and not providing access to third parties.
+We undertake to maintain the confidentiality of user data and not provide access to them to third parties.
 
-## Duration of the free trial period
+## Duration of Free Trial Period
 
-The free trial period is valid only for new users, starting from the moment of the bot's first activation.
+The free trial period is valid only for new users, starting from the moment of the first bot activation.
 
-## User responsibilities
+## User Responsibilities
 
-The user agrees to use the bot in accordance with laws and regulations.
+The user agrees to use the bot in accordance with the laws and rules.
 
-## Notifications of offer changes
+## Notifications of Offer Changes
 
-We commit to informing users about any changes in the terms of the offer.
+We undertake to notify users of any changes in the offer terms.
 
-## Responsibility for data security
+## Responsibility for Data Security
 
-The company is not responsible for the security of user data in case of access to that data due to user actions or errors.
+The company is not responsible for the security of user data in case of access to them due to user actions or errors.
