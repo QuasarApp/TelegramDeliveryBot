@@ -18,10 +18,8 @@ Kompanija "QuasarApp group" nudi pretplate za korišćenje Telegram bota koji om
 ## 2. Uslovi pretplate
 
 - **Besplatni probni period**: Korisnik ima pravo na besplatni probni period od 2 sedmice. Plaćanje se vrši nakon isteka probnog perioda. Probni period je dostupan samo novim korisnicima, počevši od trenutka prve aktivacije bota.
-
-- **Osnovna pretplata**: Cena godišnje osnovne pretplate iznosi 1200 evra godišnje bez PDV-a. Uključuje osnovnu podršku funkcionalnosti, ispravke grešaka i osnovne konsultacije.
-
-- **Proširena pretplata**: Cena godišnje proširene pretplate iznosi 2400 evra godišnje bez PDV-a. Uključuje podršku bota, ispravke grešaka, ažuriranje bota (dodavanje novih funkcija) i proširenu podršku (pomoć pri instalaciji).
+- **Osnovna pretplata**: Cena godišnje osnovne pretplate iznosi 0,2 evra po završenom nalogu bez PDV-a. Uključuje osnovnu podršku funkcionalnosti, ispravke grešaka i osnovne konsultacije.
+- **Proširena pretplata**: Cena godišnje proširene pretplate iznosi 0,3 evra po završenom nalogu bez PDV-a. Uključuje podršku bota, ispravke grešaka, ažuriranja bota (dodavanje novih funkcija) i proširenu podršku (pomoć pri instalaciji).
 
 ## 3. Uslovi obnavljanja pretplate
 
