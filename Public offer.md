@@ -19,9 +19,9 @@ Company "QuasarApp group" offers subscriptions for using a Telegram bot providin
 
 - **Free Trial Period**: The user is entitled to a free trial period of 2 weeks. Payment is due after the trial period expires. The trial period is available only for new users, starting from the moment of the first bot activation.
 
-- **Basic Subscription**: The cost of the annual basic subscription is 1200 euros per year without VAT. It includes basic functionality support, bug fixes, and basic consultations.
+- **Basic Subscription**: The cost of the annual basic subscription is 0.2 euros per completed order without VAT . It includes basic functionality support, bug fixes, and basic consultations.
 
-- **Extended Subscription**: The cost of the annual extended subscription is 2400 euros per year without VAT. It includes bot support, bug fixes, bot updates (adding new features), and extended support (assistance with installation).
+- **Extended Subscription**: The cost of the annual extended subscription is 0.3 euros per completed order without VAT . It includes bot support, bug fixes, bot updates (adding new features), and extended support (assistance with installation).
 
 ## 3. Subscription Renewal Conditions
 
